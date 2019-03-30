@@ -1,0 +1,6 @@
+language: swift
+osx_image: xcode10.1
+install: 
+  - sudo gem install fastlane
+script:
+  - fastlane scan

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "travis/Feature/Calculator/UnitTest/CalculatorTest.swift"
+            timestampString = "575612294.0865639"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "travisTests.CalculatorTest.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; travisTests.CalculatorTest"
+                  moduleName = "travisTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejandrorodriguez/Documents/Apps/travis/travis/Feature/Calculator/UnitTest/CalculatorTest.swift"
+                  timestampString = "575612089.46483"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "travisTests.CalculatorTest.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; travisTests.CalculatorTest"
+                  moduleName = "travisTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejandrorodriguez/Documents/Apps/travis/travis/Feature/Calculator/UnitTest/CalculatorTest.swift"
+                  timestampString = "575612089.47065"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "travisTests.CalculatorTest.__allocating_init(selector: ObjectiveC.Selector) -&gt; travisTests.CalculatorTest"
+                  moduleName = "travisTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejandrorodriguez/Documents/Apps/travis/travis/Feature/Calculator/UnitTest/CalculatorTest.swift"
+                  timestampString = "575612089.474209"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "travisTests.CalculatorTest.init(selector: ObjectiveC.Selector) -&gt; travisTests.CalculatorTest"
+                  moduleName = "travisTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejandrorodriguez/Documents/Apps/travis/travis/Feature/Calculator/UnitTest/CalculatorTest.swift"
+                  timestampString = "575612089.477388"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "travisTests.CalculatorTest.__allocating_init() -&gt; travisTests.CalculatorTest"
+                  moduleName = "travisTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejandrorodriguez/Documents/Apps/travis/travis/Feature/Calculator/UnitTest/CalculatorTest.swift"
+                  timestampString = "575612089.481221"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "travisTests.CalculatorTest.init() -&gt; travisTests.CalculatorTest"
+                  moduleName = "travisTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejandrorodriguez/Documents/Apps/travis/travis/Feature/Calculator/UnitTest/CalculatorTest.swift"
+                  timestampString = "575612089.484738"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "travisTests.CalculatorTest.__deallocating_deinit"
+                  moduleName = "travisTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejandrorodriguez/Documents/Apps/travis/travis/Feature/Calculator/UnitTest/CalculatorTest.swift"
+                  timestampString = "575612089.488093"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
